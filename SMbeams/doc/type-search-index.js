@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ui","l":"Apoyo"},{"p":"ui","l":"Carga"},{"p":"ui","l":"Cota"},{"p":"ui","l":"Credito"},{"p":"ui","l":"Diseno"},{"p":"ui","l":"Grafico"},{"p":"ui","l":"Inicio"},{"p":"casos","l":"Puntual"},{"p":"smbeams","l":"Reaccion"},{"p":"smbeams","l":"SMbeams"},{"p":"smbeams","l":"Solucion"},{"p":"casos","l":"Viga"},{"p":"ui","l":"Viga"}]
